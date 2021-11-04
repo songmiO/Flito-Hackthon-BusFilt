@@ -1,4 +1,7 @@
-# Flito Hackthon
+# 2020 Flito Hackthon
+
+## Team
+
 
 ## Topic
 🗣 언어 데이터를 분석/활용해 구현 가능한 AI 서비스 또는 비즈니스 모델 기획 
